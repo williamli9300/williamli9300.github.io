@@ -12,6 +12,7 @@ Find me online: [https://williamliphotos.com/](https://williamliphotos.com/)
 
 ### DQ Wordings & Hy-Tek DQ Codes [Work In Progress]
 - [**DQ Wordings Sheet (DOCX/MS Word Doc) [DRAFT]**](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/dqQuickReference.docx) <br>
+- [**DQ Wordings Sheet (PDF) [DRAFT]**](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/dqQuickReference.pdf) <br>
 - [**HyTek Custom DQ Codes (ZIP Folder)**](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/HyTekFiles/dqcodesCustom.zip) <br>
 
 ### Meet Manager 8.0 Relay Fix Tool [v3.0 Release]
