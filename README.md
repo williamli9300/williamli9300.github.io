@@ -27,8 +27,13 @@ Find me online: [https://williamliphotos.com/](https://williamliphotos.com/)
 - **Splash Custom 2-Column Start List (w/ Para Codes)** [[xml](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/SplashFiles/StartList2Col.xml)]
 
 ---
-# Repositories:
+# Quick Links
+
+## Github Repositories
 - [/swimOfficialsToolkit](https://github.com/williamli9300/swimOfficialsToolkit)
 - [/SwMM8RelayFix](https://github.com/williamli9300/SwMM8RelayFix)
 - [/CullRawByJPG](https://github.com/williamli9300/CullRawByJPG)
 - [/gettsstream](https://github.com/williamli9300/gettsstream)
+
+## Will's Swimming Resources Google Drive Folder
+[https://drive.google.com/drive/folders/1Dv8MvbYpIRposYJV-8N-U-LA2jaEF-U7](https://drive.google.com/drive/folders/1Dv8MvbYpIRposYJV-8N-U-LA2jaEF-U7)
