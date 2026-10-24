@@ -25,7 +25,7 @@ Find me online: [https://williamliphotos.com/](https://williamliphotos.com/)
 ---
 # 400m Lap Count Sheets
 - **400m Lap Count Sheet - LCM:** [[pdf](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/400m_LCM_LapCountSheets.pdf)] [[docx](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/400m_LCM_LapCountSheets.docx)]
-- **400m Lap Count Sheet - SCM:** [[pdf](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/400m_LCM_LapCountSheets.pdf)] [[docx](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/400m_LCM_LapCountSheets.docx)]
+- **400m Lap Count Sheet - SCM:** [[pdf](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/400m_SCM_LapCountSheets.pdf)] [[docx](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/400m_SCM_LapCountSheets.docx)]
 
 <br>
 
