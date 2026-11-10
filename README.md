@@ -9,7 +9,7 @@ Find me online: [https://williamliphotos.com/](https://williamliphotos.com/)
 ---
 
 # Hy-Tek & Splash Meet Manager Software Quick Reference Guides
-- **Hy-Tek Quick Reference Guide (WIP):** [[html](https://williamli9300.github.io/swimOfficialsToolkit/HyTekQuickReferenceGuide/HyTekQuickReferenceGuide.html)]
+- **Hy-Tek Quick Reference Guide (WIP) (v0.2.0):** [[html](https://williamli9300.github.io/swimOfficialsToolkit/HyTekQuickReferenceGuide/HyTekQuickReferenceGuide.html)]
 - **Splash Quick Reference Guide (WIP):** [[md](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/SplashQuickReferenceGuide/SplashQuickReferenceGuide.md)]
 - **Splash: Build a Meet from Scratch (WIP):** [[md](https://github.com/williamli9300/swimOfficialsToolkit/blob/v0.1.0/SplashQuickReferenceGuide/SplashNewMeet.md)]
 
